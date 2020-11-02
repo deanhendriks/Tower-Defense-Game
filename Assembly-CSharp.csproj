@@ -38,15 +38,18 @@
   <ItemGroup>
      <Compile Include="Assets\script\EnemySpawner.cs" />
      <Compile Include="Assets\script\PathFollower.cs" />
+     <Compile Include="Assets\script\Node.cs" />
      <Compile Include="Assets\script\Turret.cs" />
      <Compile Include="Assets\script\Path.cs" />
      <Compile Include="Assets\script\Enemy.cs" />
      <Compile Include="Assets\script\CameraShake.cs" />
+     <Compile Include="Assets\script\Bullet.cs" />
      <Compile Include="Assets\script\PlayerHealth.cs" />
      <Compile Include="Assets\script\Trigger.cs" />
-     <Compile Include="Assets\script\TurretRangeChecker.cs" />
-     <Compile Include="Assets\script\TurretBuilder.cs" />
+     <Compile Include="Assets\script\Billboard.cs" />
+     <Compile Include="Assets\script\BuildManager.cs" />
      <Compile Include="Assets\script\Waypoints.cs" />
+     <Compile Include="Assets\Shop.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
